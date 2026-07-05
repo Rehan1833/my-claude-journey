@@ -1,4 +1,5 @@
 ##DAY-4##
+
 ##PROMPT 
 
 You are an Elite AI Career Strategist.
@@ -106,5 +107,8 @@ Good, wkhtmltopdf is available. Let me build a clean, styled one-page HTML repor
 Generated using Chain-of-Thought ReasoningAi engineer roadmapDocument · PDF 
 
 ##Personalized Career Roadmap
+
+
+
 <img width="714" height="596" alt="ROADMAP" src="https://github.com/user-attachments/assets/8ae7eb27-36a3-42d0-9b3b-d594b1e8ba38" />
 
